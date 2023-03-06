@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.con {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.head {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+.btn-1 {
+  background-color: #ffffff;
+  width: 130px;
+  color: #dd1264;
+}
+.card {
+  background-color: #ffffff;
+  color: black;
+  width: 25%;
+  display: flex;
+  align-items: center;
+}
+
+.para {
+  color: #000000;
+}
+.btn-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
